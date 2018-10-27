@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49409902-d303-4cc9-a0c1-5c03336a462b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/dictionaries/abial.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/DesignPatterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/AbstractPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/DragonPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/KrokodylPizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/abstractFactory/PizzaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/builder/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/builder/HouseBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/builder/HouseBuilderFluentApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/component/FinalJobLeaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/component/JobComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/component/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/component/SchedulerComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/decorator/BMWDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/decorator/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/decorator/TirDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/CKMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/Observable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/PixelObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/SubscriberObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/observer/VIPSubscriberObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/LazySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/FormatterFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/InverterFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/LowerFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/SplitterFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/TrimFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/strategy/UpperFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/test/java/Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/test/java/BuilderInterface/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/AbstractPizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/DayOfWeek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/DragonPizzaFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/DragonPizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/Factory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/KrokodylPizzaFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/KrokodylPizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/Pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/PizzaFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/abstractFactory/PizzaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/builder/Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/builder/House.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/builder/HouseBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/builder/HouseBuilderFluentApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/builder/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/component/FinalJobLeaf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/component/JobComponent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/component/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/component/SchedulerComposite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/decorator/BMWDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/decorator/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/decorator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/decorator/TirDecorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/CKMObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/Observable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/Observer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/PixelObserver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/SubscriberObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/observer/VIPSubscriberObservable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/LazySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/FormatterFont.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/InverterFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/LowerFromat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/SplitterFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/TrimFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/UpperFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/test-classes/Builder/Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns/target/test-classes/BuilderInterface/Builder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/Games.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/Difficulty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/GameChooser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/GuessTheNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/Playable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/out/production/Games/Welcome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/ChoosingDifficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/GameChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Games/src/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/ProgrammingII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/Consumer/KonsumentLiczbCalkowitych.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/Consumer/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/META-INF/ProgrammingII.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Figura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Kwadrat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Prostokat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Sen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Trapez.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/Trojkat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/WypisywaczFigur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/SenOFigurach/WyswietlaczSnu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Babcia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Dniowka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Karta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/MetodyPlatnosci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Portfel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Pozyczka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Skarpeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/Wnuczek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/ZrodloPieniedzy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyBabciaWnuczek/ZrodloPieniedzyA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/Babcia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/Kino.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/Skarpeta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/SklepZButami.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/out/production/ProgrammingII/ZakupyWnuczka/Wnuczek.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/Consumer/KonsumentLiczbCalkowitych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/Consumer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Kwadrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Sen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Trapez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/WypisywaczFigur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/SenOFigurach/WyswietlaczSnu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Babcia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Dniowka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Karta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/MetodyPlatnosci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Portfel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Pozyczka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Skarpeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/Wnuczek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/Babcia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/Kino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/Skarpeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/SklepZButami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgrammingII/src/ZakupyWnuczka/Wnuczek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/ProgramowanieII.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Eco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Mode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Normal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Car/Turbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/Dziekanat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/SaveFormatOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/SaveFormatTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/Saving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/src/main/java/StudentSaveToFile/StudentListFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Eco.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Mode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Normal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Car/Turbo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/META-INF/ProgramowanieII.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/StudentSaveToFile/Dziekanat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/StudentSaveToFile/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/StudentSaveToFile/Operator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/StudentSaveToFile/SaveFormatOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieII/target/classes/StudentSaveToFile/SaveFormatTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/TDD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Bowling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/Discounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/main/java/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/AccountTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/AccountTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/AccountTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/AnnotationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/BowlingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/CalcParametrizedByFieldsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/DiscountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/src/test/java/JParamsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/BankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Bowling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/Discounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/classes/NotEnoughMoneyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/AccountTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/AccountTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/AccountTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/AnnotationsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/BankAccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/BowlingTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/CalcParametrizedByFieldsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/DiscountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD/target/test-classes/JParamsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/TDD2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/api/ToDo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/business/ToDoSpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/main/java/stub/ToDoStub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/AssertJMatcherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/ToDoSpringMockitoInjectMocksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/ToDoSpringMockitoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/src/test/java/ToDoSpringStubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/classes/api/ToDo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/classes/business/ToDoSpring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/classes/stub/ToDoStub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/test-classes/AssertJMatcherTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/test-classes/ToDoSpringMockitoInjectMocksTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/test-classes/ToDoSpringMockitoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD2/target/test-classes/ToDoSpringStubTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperator/BufferedWriterFileOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperator/FieldNamedParametersLineGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperator/FileOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperator/LineGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileOperator/SaveToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/CheckIfUserFieldIsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/CheckingField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/Communicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/UserEditorManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UserManagement/UserValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/userData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/VirtualWorldProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Antelope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Fox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Turtle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Animals/Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Basic/Organism.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Basic/Welcome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Basic/World.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Plants/Berry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Plants/Dandelion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Plants/Grass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Plants/Guarana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/out/production/VirtualWorldProject/Plants/Plant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Antelope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Fox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Animals/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Basic/Organism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Basic/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Basic/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Plants/Berry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Plants/Dandelion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Plants/Grass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Plants/Guarana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VirtualWorldProject/src/Plants/Plant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/Zadania.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Mapy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Student/Gender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Student/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/Student/StudentBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/TAX/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/TAX/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/TAX/Receipt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/TAX/Tax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/comparatorTask/CompareNames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/comparatorTask/CompareNamesAndSurnames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/comparatorTask/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/comparatorTask/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/conference/ConferenceCenter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/conference/ConferenceRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/conference/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/dentysta/FileOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/dentysta/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/dentysta/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/dentysta/RegistrationDesk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/dentysta/Visit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/kolejki/ComparatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/kolejki/Kolejka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/kolejki/MyPatientComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/kolejki/MyStudentComparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/CompareMaleFemale.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/FileOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/RegistrationDesk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/Visit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/out/production/Zadania/pacjentTrener/db/patients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Mapy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Student/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Student/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Student/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/Student/StudentBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/TAX/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/TAX/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/TAX/Receipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/TAX/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/comparatorTask/CompareNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/comparatorTask/CompareNamesAndSurnames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/comparatorTask/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/comparatorTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/conference/ConferenceCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/conference/ConferenceRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/conference/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/dentysta/FileOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/dentysta/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/dentysta/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/dentysta/RegistrationDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/dentysta/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/kolejki/ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/kolejki/Kolejka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/kolejki/MyPatientComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/kolejki/MyStudentComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/CompareMaleFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/FileOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/RegistrationDesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/pacjentTrener/db/patients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/zmywarka/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/zmywarka/DishType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadania/src/zmywarka/Sink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javagda17adapters" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javagda17strategy" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1257462058">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="36" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="36" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="29" />
+          <entry key="java" value="4037" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4037" />
+          <entry key="PLAIN_TEXT" value="29" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/UserManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+                <element signature="e#969#970#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="34" column="66" lean-forward="true" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Communicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SaveToFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoginManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckUserField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckUserFieldUserExist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckIfPasswordIsCorrect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckIfUserExist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserValidator/UserValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckIfUserFieldIsEmpty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CheckingField.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserEditorManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileOperator/FileOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileOperator/SaveToFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileOperator/BufferedWriterFileOperator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileOperator/LineGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FileOperator/FieldNamedParametersLineGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/UserManagement/UserManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="503" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="FileOperator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="UserManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserManager" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540654686577" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="FileOperator" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="UserValidator" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="UserManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49409902-d303-4cc9-a0c1-5c03336a462b" name="Default Changelist" comment="" />
+      <created>1540571039583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540571039583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="PlantUML" order="6" />
+      <window_info anchor="right" id="REPL" order="7" side_tool="true" />
+      <window_info anchor="right" id="Leiningen" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CheckIfUserExist.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/CheckIfPasswordIsCorrect.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/CheckIfUserFieldIsEmpty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/CheckingField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/LoginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#809#810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator/LineGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/Communicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/UserEditorManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator/FileOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator/BufferedWriterFileOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/UserValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator/SaveToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileOperator/FieldNamedParametersLineGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/userData.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="34" column="66" lean-forward="true" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/UserManagement/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="50" column="34" lean-forward="true" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+            <element signature="e#969#970#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UserManager</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
