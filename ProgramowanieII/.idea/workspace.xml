@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="112001f0-ea4f-4869-9541-0de7501f7ce7" name="Default Changelist" comment="Linux push">
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/MySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/CreatingLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/Loggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/DesignPatterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/LazySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/LazySingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/singleton/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/LowerFromat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/SplitterFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/target/classes/strategy/SplitterFormat.class" afterDir="false" />
+    <list default="true" id="112001f0-ea4f-4869-9541-0de7501f7ce7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/AMDCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/AMDComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/AMDGPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/ComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/ComputerPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/GPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/IntelCPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/IntelComputerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/IntelGPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPC/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgramowanieII.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentSaveToFile/SaveFormatTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentSaveToFile/SaveFormatTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StudentSaveToFile/Saving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentSaveToFile/Saving.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Eco.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Eco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Mode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Normal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Normal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Car/Turbo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Car/Turbo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ProgramowanieII.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Student/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Dziekanat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Dziekanat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentSaveToFile/Operator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentSaveToFile/SaveFormatOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentSaveToFile/SaveFormatOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/StudentSaveToFile/SaveFormatTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StudentSaveToFile/SaveFormatTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserManager/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UserManager/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserManager/UserManager.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -85,25 +61,26 @@
     <session id="-1892785297">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="StudentListFile" value="2" />
-          <entry key="java" value="20" />
+          <entry key="java" value="33" />
           <entry key="log" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="33" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
         </counts>
@@ -111,20 +88,66 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="StudentListFile" value="1" />
-          <entry key="java" value="225" />
+          <entry key="java" value="1457" />
           <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="225" />
+          <entry key="JAVA" value="1457" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/ComputerPart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/CPU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/GPU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/ComputerFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -175,6 +198,17 @@
         <option value="$PROJECT_DIR$/src/main/java/Singleton/Logger.java" />
         <option value="$PROJECT_DIR$/src/main/java/Singleton/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/StudentSaveToFile/Saving.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/ComputerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/ComputerPart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/GPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/CPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/IntelComputerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/IntelCPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/IntelGPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/AMDCPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/AMDGPU.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/AMDComputerFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FactoryPC/Main.java" />
       </list>
     </option>
   </component>
@@ -190,7 +224,9 @@
     <option name="width" value="503" />
     <option name="height" value="745" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -222,6 +258,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProgramowanieII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgramowanieII" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="FactoryPC" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -230,12 +274,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540918926149" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540925265664" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -257,7 +301,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StudentSaveToFile.Main" />
       <module name="ProgramowanieII" />
@@ -284,6 +328,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryPC.Main" />
+      <module name="ProgramowanieII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FactoryPC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Car.Main" />
       <module name="ProgramowanieII" />
@@ -295,9 +352,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -315,12 +374,21 @@
       <option name="presentableId" value="Default" />
       <updated>1540395358445</updated>
     </task>
+    <task id="LOCAL-00001" summary="Linux push">
+      <created>1540918940096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540918940096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16969697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -338,7 +406,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32755905" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32755905" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -456,11 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,12 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -501,9 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -511,15 +565,113 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/IntelComputerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/IntelCPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/AMDGPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/AMDCPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/AMDComputerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/IntelGPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/GPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/ComputerFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/CPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/ComputerPart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FactoryPC/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -533,10 +685,24 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProgramowanieII</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
