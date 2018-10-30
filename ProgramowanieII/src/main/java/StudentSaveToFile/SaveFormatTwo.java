@@ -3,6 +3,7 @@ package StudentSaveToFile;
 import Student.Student;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.List;
 
 public class SaveFormatTwo implements Operator {
@@ -11,6 +12,8 @@ public class SaveFormatTwo implements Operator {
 
 
     public void saveToFile(List<Student> studentList) throws IOException {
+
+        studentList = new ArrayList<Student>();
 
         saving.saveToFile(studentList);
     }

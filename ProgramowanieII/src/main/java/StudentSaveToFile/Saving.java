@@ -1,19 +1,24 @@
 package StudentSaveToFile;
 
 
+import Student.Student;
+
 import java.io.*;
 import java.util.List;
 
 public class Saving {
 
-    final String FILEPATH = "C:\\Users\\abial\\IdeaProjects\\ProgramowanieII\\src\\main\\java\\StudentSaveToFile\\StudentListFile.txt";
+    final String FILEPATH = "/home/andrzej/Java/ProgramowanieII/src/main/java/StudentSaveToFile/StudentListFile";
+
+    public Saving(SaveFormatTwo saveFormatTwo) {
+    }
 
 
-    public void saveToFile(List<String> list) throws IOException {
+    public void saveToFile(List<Student> list) throws IOException {
 
         try {
             PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(FILEPATH)));
-            for (String s : list) {
+            for (Student s : list) {
                 writer.println(s);
                 writer.close();
             }

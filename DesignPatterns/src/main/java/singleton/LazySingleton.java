@@ -8,6 +8,7 @@ public final class LazySingleton {
     }
 
     public static LazySingleton getInstance() {
-        return null == instance ? new LazySingleton() : instance;
+        if (null == instance) return new LazySingleton();
+        else return instance;
     }
 }
