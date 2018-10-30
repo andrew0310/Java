@@ -5,6 +5,7 @@ public class AMDComputerFactory implements ComputerFactory {
     CPU amdCPU;
     GPU amdGPU;
 
+
     @Override
     public CPU buildCPU() {
         this.amdCPU = new AMDCPU();
