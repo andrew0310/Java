@@ -2,48 +2,60 @@ package com.sdacademy.builderexample.pizza;
 
 public class PizzaBuilder {
 
-    private Pizza pizza;
-
-    public PizzaBuilder() {
-        pizza = new Pizza();
-    }
+    private boolean hasSauce;
+    private boolean hasCheese;
+    private boolean hasHam;
+    private boolean hasMushrooms;
+    private boolean hasPepperoni;
+    private boolean hasOlives;
+    private boolean hasTomatoes;
 
     public PizzaBuilder addSauce() {
-        pizza.setHasSauce(true);
+        hasSauce = true;
         return this;
     }
 
     public PizzaBuilder addCheese() {
-        pizza.setHasCheese(true);
+        hasCheese = true;
         return this;
     }
 
     public PizzaBuilder addHam() {
-        pizza.setHasHam(true);
+        hasHam = true;
         return this;
     }
 
     public PizzaBuilder addMushrooms() {
-        pizza.setHasMushrooms(true);
+        hasMushrooms = true;
         return this;
     }
 
     public PizzaBuilder addOlives() {
-        pizza.setHasOlives(true);
+        hasOlives = true;
         return this;
     }
 
     public PizzaBuilder addPeperoni() {
-        pizza.setHasPepperoni(true);
+        hasPepperoni = true;
         return this;
     }
 
     public PizzaBuilder addTomatoes() {
-        pizza.setHasTomatoes(true);
+        hasTomatoes = true;
         return this;
     }
 
     public Pizza prepare() {
+        Pizza pizza = new Pizza();
+
+        pizza.setHasMushrooms(hasMushrooms);
+        pizza.setHasOlives(hasOlives);
+        pizza.setHasPepperoni(hasPepperoni);
+        pizza.setHasHam(hasHam);
+        pizza.setHasTomatoes(hasTomatoes);
+        pizza.setHasCheese(hasCheese);
+        pizza.setHasSauce(hasSauce);
+
         return pizza;
     }
 

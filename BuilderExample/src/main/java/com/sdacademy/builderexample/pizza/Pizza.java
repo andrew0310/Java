@@ -2,6 +2,7 @@ package com.sdacademy.builderexample.pizza;
 
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Objects;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -41,13 +42,19 @@ public class Pizza {
     }
 
     public String getIngredientsInformation() {
+
         //metoda StringUtils.join łączy wszystkie Stringi w liście oddzielając je podanym separatorem,
         // np. lista "aaa bbb ccc" i separator ":::" da następujący wynik "aaa:::bbb:::ccc"
-        return new StringBuilder()
-                .append(INGREDIENTS_INFORMATION_PREFIX)
-                .append(StringUtils.join(getIngredients(), INGREDIENTS_SEPARATOR))
-                .append(DOT)
-                .toString();
+
+        if (getIngredients().isEmpty()) {
+            return "This pizza doesn't have ingredients.";
+        } else {
+            return new StringBuilder()
+                    .append(INGREDIENTS_INFORMATION_PREFIX)
+                    .append(StringUtils.join(getIngredients(), INGREDIENTS_SEPARATOR))
+                    .append(DOT)
+                    .toString();
+        }
     }
 
     public boolean isHasSauce() {
@@ -107,6 +114,7 @@ public class Pizza {
     }
 
     private List<String> getIngredients() {
+
         List<String> ingredients = new LinkedList<String>();
 
         addIf(ingredients, SAUCE, hasSauce);
@@ -126,4 +134,35 @@ public class Pizza {
         }
     }
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Pizza pizza = (Pizza) o;
+        return hasSauce == pizza.hasSauce &&
+                hasCheese == pizza.hasCheese &&
+                hasHam == pizza.hasHam &&
+                hasPepperoni == pizza.hasPepperoni &&
+                hasOlives == pizza.hasOlives &&
+                hasTomatoes == pizza.hasTomatoes &&
+                hasMushrooms == pizza.hasMushrooms;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(hasSauce, hasCheese, hasHam, hasPepperoni, hasOlives, hasTomatoes, hasMushrooms);
+    }
+
+    @Override
+    public String toString() {
+        return "Pizza{" +
+                "hasSauce=" + hasSauce +
+                ", hasCheese=" + hasCheese +
+                ", hasHam=" + hasHam +
+                ", hasPepperoni=" + hasPepperoni +
+                ", hasOlives=" + hasOlives +
+                ", hasTomatoes=" + hasTomatoes +
+                ", hasMushrooms=" + hasMushrooms +
+                '}';
+    }
 }
