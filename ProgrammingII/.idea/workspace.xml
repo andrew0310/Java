@@ -1,13 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dc34756-539e-4af4-9da8-c68c2da5807b" name="Default Changelist" comment="" />
+    <list default="true" id="5dc34756-539e-4af4-9da8-c68c2da5807b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/FormaPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/NarratorZakupow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Portfel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ScalSrodki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Skarpeta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezneC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzyC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ProsteZrodloPieniedzy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/SrodkiPieniezne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/Consumer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/Consumer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/META-INF/ProgrammingII.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Babcia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Babcia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Dniowka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Dniowka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Karta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Karta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Portfel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Portfel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Pozyczka.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Pozyczka.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Skarpeta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Skarpeta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Wnuczek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/Wnuczek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/ZrodloPieniedzy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingII/ZakupyBabciaWnuczek/ZrodloPieniedzy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProgrammingII$NoweSrodkiPieniezne.ic" NAME="NoweSrodkiPieniezne Coverage Results" MODIFIED="1541525606040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>NoweSrodkiPieniezne.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-798416851">
@@ -52,122 +100,61 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="637921039">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="7" />
+          <entry key="java" value="104" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="104" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2069" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2069" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java">
+        <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzyC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#522#523#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1252#1253#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
-                <element signature="e#1314#1315#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-                <element signature="e#307#308#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java">
+        <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#543#544#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -177,11 +164,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -205,33 +195,46 @@
         <option value="$PROJECT_DIR$/src/ZakupyWnuczka/Kino.java" />
         <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/PracaDorywcza.java" />
         <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/MetodyPlatnosci.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java" />
         <option value="$PROJECT_DIR$/src/Consumer/Main.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java" />
         <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java" />
         <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java" />
-        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/SrodkiPieniezne.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ProsteZrodloPieniedzy.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java" />
         <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/FormaPieniedzy.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezne.java" />
+        <option value="$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezneC.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzy.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzy.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ScalSrodki.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZrodloPieniedzy.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Skarpeta.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Portfel.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzyC.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/NarratorZakupow.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzyC.java" />
+        <option value="$PROJECT_DIR$/src/NoweSrodkiPieniezne/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="195" />
+    <option name="width" value="1014" />
+    <option name="height" value="766" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,21 +251,32 @@
               <item name="ProgrammingII" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingII" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ZakupyBabciaWnuczek" type="462c0819:PsiDirectoryNode" />
+              <item name="NoweSrodkiPieniezne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingII" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540320323336" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatterns" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541529124533" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="NoweSrodkiPieniezne" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -276,7 +290,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.NoweSrodkiPieniezne">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ZakupyWnuczka.Main" />
       <module name="ProgrammingII" />
@@ -323,13 +337,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NoweSrodkiPieniezne" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="NoweSrodkiPieniezne.Main" />
+      <module name="ProgrammingII" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NoweSrodkiPieniezne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.NoweSrodkiPieniezne" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoweSrodkiPieniezne" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -359,26 +388,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.1482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.175" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32913387" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50075644" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32755905" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32903227" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.45322582" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4519685" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49924356" weight="0.32903227" />
+      <window_info anchor="bottom" id="TODO" order="10" sideWeight="0.49924356" weight="0.32755905" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32954547" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="REPL" order="2" side_tool="true" />
@@ -396,48 +427,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/time/Instant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="1230" column="16" selection-start-line="1230" selection-start-column="16" selection-end-line="1230" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/IntConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SenOFigurach/Sen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SenOFigurach/WypisywaczFigur.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SenOFigurach/WyswietlaczSnu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -551,17 +540,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZakupyBabciaWnuczek.plantuml" />
     <entry file="file://$PROJECT_DIR$/src/Consumer/Consumer.plantuml" />
     <entry file="file://$PROJECT_DIR$/src/SenOFigurach/SenOFigurach.plantuml" />
@@ -576,132 +554,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgrammingII.plantuml" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/MetodyPlatnosci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1285#1286#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java" />
     <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzyA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
@@ -715,6 +576,321 @@
             <element signature="e#869#870#0" expanded="true" />
             <element signature="e#897#898#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Pozyczka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Dniowka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Babcia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Karta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/MetodyPlatnosci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/BiConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Consumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ZrodloPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Wnuczek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/SrodkiPieniezne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/ProsteZrodloPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/FormaPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Portfel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZakupyBabciaWnuczek/Skarpeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/annotation/Documented.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/FunctionalInterface.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ScalSrodki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="73" lean-forward="true" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/Skarpeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#122#123#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/Portfel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" lean-forward="true" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZrodloPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/SrodkiPieniezneC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ProsteZrodloPieniedzyC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#751#752#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/NarratorZakupow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/ZlozoneZrodloPieniedzyC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoweSrodkiPieniezne/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>

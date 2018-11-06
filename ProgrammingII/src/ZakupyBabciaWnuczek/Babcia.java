@@ -11,4 +11,19 @@ public class Babcia extends ZrodloPieniedzyA {
     void robObiad() {
         System.out.println("Babcia robi obiad.");
     }
+
+    @Override
+    public SrodkiPieniezne zabierzDostepneSrodki() {
+        return null;
+    }
+
+    @Override
+    public SrodkiPieniezne stanDostepnychSrodkow() {
+        return null;
+    }
+
+    @Override
+    public MetodyPlatnosci getMetodaPlatnosci() {
+        return null;
+    }
 }

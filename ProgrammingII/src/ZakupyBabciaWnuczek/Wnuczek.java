@@ -25,6 +25,7 @@ public class Wnuczek {
     public void wyswietl() {
         int tot = 0;
         int tot2 = 0;
+
         for (ZrodloPieniedzy zrodloPieniedzy : zrodla) {
             if (zrodloPieniedzy.getMetodaPlatnosci().equals(MetodyPlatnosci.ELEKTRONICZNA)) {
                 tot += zrodloPieniedzy.pobierzKwote();

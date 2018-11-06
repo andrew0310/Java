@@ -30,7 +30,6 @@ public abstract class ZrodloPieniedzyA implements ZrodloPieniedzy {
         this.zrodloPieniedzyCollection.add(zrodloPieniedzy);
     }
 
-
     @Override
     public int pobierzKwote() {
         return kwota;

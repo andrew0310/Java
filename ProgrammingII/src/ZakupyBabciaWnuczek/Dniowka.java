@@ -9,6 +9,16 @@ public class Dniowka extends ZrodloPieniedzyA {
     }
 
     @Override
+    public SrodkiPieniezne zabierzDostepneSrodki() {
+        return null;
+    }
+
+    @Override
+    public SrodkiPieniezne stanDostepnychSrodkow() {
+        return null;
+    }
+
+    @Override
     public MetodyPlatnosci getMetodaPlatnosci() {
         return metodyPlatnosci = MetodyPlatnosci.GOTOWKA;
     }

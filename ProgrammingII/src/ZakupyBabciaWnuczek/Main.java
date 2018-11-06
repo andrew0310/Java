@@ -8,12 +8,12 @@ public class Main {
 
         Wnuczek wnuczek = new Wnuczek();
 
-        new Portfel(10);
+        //new Portfel(10);
         new Skarpeta(20);
         new Karta(200).getMetodyPlatnosci();
 
         final Collection<ZrodloPieniedzy> zrodlo = new HashSet<>();
-        zrodlo.add(new Portfel(35));
+        //zrodlo.add(new Portfel(35));
         zrodlo.add(new Skarpeta(20));
         zrodlo.add(new Karta(200));
 
