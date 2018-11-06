@@ -5,7 +5,6 @@ import java.util.function.Consumer;
 public class NarratorZakupow {
 
 
-
     Consumer<SrodkiPieniezne> wypiszSrodki =
             srodkiPieniezne -> srodkiPieniezne.getSrodki().forEach((key, value)
                     -> System.out.println(key + " " + value));

@@ -18,7 +18,7 @@ public class ZlozoneZrodloPieniedzyC implements ZlozoneZrodloPieniedzy {
 
     @Override
     public SrodkiPieniezne zabierzDostepneSrodki() {
-        return null;
+        return this.scal(ZrodloPieniedzy::zabierzDostepneSrodki);
     }
 
     @Override

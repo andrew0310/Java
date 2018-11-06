@@ -1,6 +1,7 @@
 package ZakupyWnuczka;
 
 public class Skarpeta {
+
     private int kwota;
 
     public Skarpeta(int kwota) {
